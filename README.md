@@ -90,9 +90,6 @@ The following models were trained and evaluated:
 * Reduces variance compared to a single tree
 * Handles non-linear patterns effectively
 
-> ⚠️ **Note:**
-> KNN, SVM, XGBoost, and Gradient Boosting are **not used** in this project.
-
 ---
 
 ## 📈 Model Evaluation Metrics
