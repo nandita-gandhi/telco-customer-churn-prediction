@@ -5,7 +5,9 @@
 Customer churn is a major challenge in the telecom industry, where retaining existing customers is more cost-effective than acquiring new ones.
 This project builds a **machine learning–based classification system** to predict whether a customer is likely to churn based on their demographic details, account information, and service usage.
 
-The project demonstrates a **complete end-to-end ML workflow**, from data preprocessing to model evaluation and insights.
+The project demonstrates a **complete end-to-end ML workflow**, from data preprocessing to model evaluation and insights. 
+
+The project uses [Kaggle dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
 
 ---
 
